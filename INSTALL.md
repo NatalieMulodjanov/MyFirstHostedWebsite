@@ -7,3 +7,6 @@ this file is to practice git commands.
 
 this is my change as a first user to try to conflict 
 c5a43331631b08548ca69b0cbeff27ae564dd183
+
+
+trying to cause a merge conflict on .md file
